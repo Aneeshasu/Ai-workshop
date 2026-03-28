@@ -3,3 +3,4 @@ httpx
 mcp
 uvicorn
 strands-agents
+openai
